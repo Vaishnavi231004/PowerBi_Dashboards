@@ -86,7 +86,7 @@ CALCULATE([Total Sales], Data[Item Fat Content] = "Regular")
 
 Dashboard Sections & Insights
 Sales Performance Insights
-<p align="center"> <img src="screenshots/sales_performance.png" width="800"/> <br/> <em>Sales distribution by item type, fat content, and outlet characteristics</em> </p>
+<p align="center"> <img src="screenshots/Sales Performance Insights.png" width="800"/> <br/> <em>Sales distribution by item type, fat content, and outlet characteristics</em> </p>
 
 Business Questions Answered
 
@@ -95,7 +95,7 @@ Which item types generate the highest revenue?
 Do Low Fat or Regular items perform better?
 
 Outlet Analysis
-<p align="center"> <img src="screenshots/outlet_analysis.png" width="800"/> <br/> <em>Sales comparison across outlet tiers, identifiers, and establishment years</em> </p>
+<p align="center"> <img src="screenshots/Outlet Analysis.png" width="800"/> <br/> <em>Sales comparison across outlet tiers, identifiers, and establishment years</em> </p>
 
 Business Questions Answered
 
@@ -104,7 +104,7 @@ Which outlet tier performs best?
 Does outlet age affect sales performance?
 
 Product Characteristics
-<p align="center"> <img src="screenshots/product_characteristics.png" width="800"/> <br/> <em>Relationship between item visibility, sales, weight, and ratings</em> </p>
+<p align="center"> <img src="screenshots/Product Characteristics.png" width="800"/> <br/> <em>Relationship between item visibility, sales, weight, and ratings</em> </p>
 
 Business Questions Answered
 
@@ -113,7 +113,7 @@ Does higher visibility lead to higher sales?
 Which product categories receive better ratings?
 
 KPI Scorecards
-<p align="center"> <img src="screenshots/kpi_scorecards.png" width="800"/> <br/> <em>Key performance indicators highlighting top and low-performing entities</em> </p>
+<p align="center"> <img src="screenshots/KPI Scorecards.png" width="800"/> <br/> <em>Key performance indicators highlighting top and low-performing entities</em> </p>
 
 KPIs Included
 

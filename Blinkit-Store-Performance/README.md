@@ -65,7 +65,7 @@ Item Age = Current Year − Outlet Establishment Year
 
 ---
 
-## **Key DAX Measures**
+### **Key DAX Measures**
 
 ```DAX
 Total Sales = SUM(Data[Sales])
@@ -83,6 +83,8 @@ CALCULATE([Total Sales], Data[Item Fat Content] = "Low Fat")
 Regular Sales =
 CALCULATE([Total Sales], Data[Item Fat Content] = "Regular")
 
+```
+---
 
 ## **Dashboard Sections & Insights**
 
@@ -159,3 +161,4 @@ CALCULATE([Total Sales], Data[Item Fat Content] = "Regular")
 ## **Author**
 **Vaishnavi Mohite**  
 **Power BI | Data Visualization**
+

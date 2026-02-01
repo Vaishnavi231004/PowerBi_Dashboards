@@ -62,7 +62,7 @@ Low Sales (< 500)
 
 Extracted Item Category Code from Item Identifier
 
-Aggregated metrics
+Aggregated Metrics
 
 Average Sales by Outlet
 
